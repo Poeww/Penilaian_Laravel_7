@@ -53,5 +53,12 @@
             </table>
         </div>
     </main>
+
+    <!-- Footer -->
+    <footer class="mt-auto bg-blue-700 text-white text-center py-4">
+        <p class="text-sm tracking-wide">
+            &copy; {{ date('Y') }} DolanJogja Travel. Created by <strong>Kelompok 7 Kelas A</strong> - Project PAW.
+        </p>
+    </footer>
 </body>
 </html>
